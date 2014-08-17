@@ -29,7 +29,7 @@ Related Documents
 
 View
 ========
-<img src="https://lh4.googleusercontent.com/-XBfJa6LgXzY/U_CiQ8zwRDI/AAAAAAAAKiM/UYYNOLkPPAo/s1600/DSC_2494.jpg" />
+<img src="https://lh3.googleusercontent.com/-oS49rtpGSEc/U_CvY6CfWXI/AAAAAAAAKnc/aNw0XysUdPw/s1600/DSC_2503.jpg" />
 <img src="https://lh6.googleusercontent.com/-c9VnUvk2UBw/U_CiRLphS8I/AAAAAAAAKiQ/zYmP-Ao50I8/s1600/DSC_2495.jpg" />
 
 Schematic
