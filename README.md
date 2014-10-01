@@ -2,7 +2,7 @@
 ========
 * Author  : [Hom](https://github.com/Hom-Wang)
 * Version : v1.0
-* Update  : 2014/08/17
+* Update  : 2014/10/01
 
 Description
 ========
@@ -22,6 +22,10 @@ Hardware
 * 其他外接 : SD ( SDIO )
 * PCB 尺寸 : 100 * 58 mm
 * 設計軟體 [Altium Designer 14](http://www.altium.com/en/products/altium-designer) ( PcbLib use AD [PcbLib v1.0](https://github.com/KitSprout/AltiumDesigner_PcbLibrary/releases/tag/v1.0) ) 
+
+Source Code
+========
+* [STM32 Code](https://github.com/QCopter/QCopterRemoteControl/tree/master/Software/TEST_QCopterRC_TestTFT4.0)
 
 Related Documents
 ========
