@@ -2,7 +2,7 @@
 ========
 * Author  : [Hom](https://github.com/Hom-Wang)
 * Version : v1.2
-* Update  : 2015/03/18
+* Update  : 2015/04/26
 
 Description
 ========
@@ -39,3 +39,7 @@ View
 Schematic
 ========
 <img src="https://lh4.googleusercontent.com/-QbN_CAXpfnk/VQh2cHS3UnI/AAAAAAAAL2s/z0QJh1BTrJ8/s1600/Sch_TFT_4.0-inch_OTM8009A_v1.2.png" />
+
+Get it
+========
+http://goods.ruten.com.tw/item/show?21509517341626
